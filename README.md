@@ -1,4 +1,4 @@
-### PROJECT TITLE:
+# PROJECT TITLE:
 Quine-McCluskey Boolean Minimization.
 
 ## DESCRIPTION:
