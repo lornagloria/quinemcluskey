@@ -13,6 +13,9 @@ void convertDecimalToBinary(int noOfMinterm,int noOfVariables, int decimal[noOfM
 }
 }
 
+int add(int a, int b){
+    return a + b;
+}
 
 void InputHandler( int noOfminterms,int noOfvariables,int array[noOfminterms][noOfvariables],int Method)
 {
